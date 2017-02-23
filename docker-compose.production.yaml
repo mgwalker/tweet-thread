@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  tweet-thread:
+    build:
+      context: ./
+      dockerfile: Dockerfile.production
+    restart: always
+    ports:
+      - 65006:8000

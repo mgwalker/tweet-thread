@@ -1,0 +1,1352 @@
+[
+  {
+    "created_at": "Wed Feb 22 16:01:49 +0000 2017",
+    "id": 834433020769636400,
+    "id_str": "834433020769636352",
+    "text": "Anyways, I'm on my flight now and have to shut down my phone. Good morning beautiful people. May all your breakfast companions be amazing. 😘",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834432613687324700,
+    "in_reply_to_status_id_str": "834432613687324674",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 154,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 16:00:12 +0000 2017",
+    "id": 834432613687324700,
+    "id_str": "834432613687324674",
+    "text": "And with a loud part of our culture declaring one of these guys as \"real America\", and the other dangerous, I see both comedy &amp; tragedy.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834432148035625000,
+    "in_reply_to_status_id_str": "834432148035624960",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 94,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:58:21 +0000 2017",
+    "id": 834432148035625000,
+    "id_str": "834432148035624960",
+    "text": "Of course I'm talking about two specific people. I've met good white guys &amp; asshole immigrants. But it's hard not to read our story in this.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834431284260720600,
+    "in_reply_to_status_id_str": "834431284260720641",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 78,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:54:55 +0000 2017",
+    "id": 834431284260720600,
+    "id_str": "834431284260720641",
+    "text": "I'm thinking, this is so America. Entitled white guy full of hate expects world to serve him. Immigrant full of hope sends people into space",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834430285735350300,
+    "in_reply_to_status_id_str": "834430285735350272",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 283,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:50:57 +0000 2017",
+    "id": 834430285735350300,
+    "id_str": "834430285735350272",
+    "text": "AND he expresses pity for the white guy, how much energy &amp; stress it takes to be angry all the time. He said so many extraordinary things.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834429874366341100,
+    "in_reply_to_status_id_str": "834429874366341120",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 122,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:49:19 +0000 2017",
+    "id": 834429874366341100,
+    "id_str": "834429874366341120",
+    "text": "As a kid he played sports just for the free shoes. \"I came here from India 23 years ago with $63. Now I work for NASA. I love this country.\"",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834429456848605200,
+    "in_reply_to_status_id_str": "834429456848605184",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 122,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:47:40 +0000 2017",
+    "id": 834429456848605200,
+    "id_str": "834429456848605184",
+    "text": "Guys, this shit he does, and he's using plates and creamers to explain to me, is just mind blowing. And he says, \"I'm not even that smart.\"",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834429197774786600,
+    "in_reply_to_status_id_str": "834429197774786560",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 83,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:46:38 +0000 2017",
+    "id": 834429197774786600,
+    "id_str": "834429197774786560",
+    "text": "I tell him I'm a writer and he asks some smart questions. His name is Jitendra. He's a NASA scientist and tells me all about his projects.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834428399334543400,
+    "in_reply_to_status_id_str": "834428399334543360",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 93,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:43:27 +0000 2017",
+    "id": 834428399334543400,
+    "id_str": "834428399334543360",
+    "text": "Indian guy bets white guy also didn't leave a tip. Servers confirms: nothing. We both say we'll tip extra. Then we start chatting.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834428043716202500,
+    "in_reply_to_status_id_str": "834428043716202500",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 77,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:42:03 +0000 2017",
+    "id": 834428043716202500,
+    "id_str": "834428043716202500",
+    "text": "Indian guy &amp; I exchanging looks. White guy leaves, we start in, \"What an asshole!\" We tell the server we're sorry he had to deal with him.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834427251047280600,
+    "in_reply_to_status_id_str": "834427251047280640",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 59,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:38:54 +0000 2017",
+    "id": 834427251047280600,
+    "id_str": "834427251047280640",
+    "text": "White guy barks \"Get a manager.\" As he waits, he sees plenty of other cards go through, finally relents and gives server another card.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834426790621818900,
+    "in_reply_to_status_id_str": "834426790621818884",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 45,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:37:04 +0000 2017",
+    "id": 834426790621818900,
+    "id_str": "834426790621818884",
+    "text": "Server asks if the man will wait so he can try it manually. \"No. Use the chip.\" Server doesn't understand (restaurant POS don't take them).",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834426498211655700,
+    "in_reply_to_status_id_str": "834426498211655680",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:35:54 +0000 2017",
+    "id": 834426498211655700,
+    "id_str": "834426498211655680",
+    "text": "Barks at the server, nice Latino guy busting his ass, \"It works everywhere else.\" Server tries again, politely says it still won't work",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834426133521141800,
+    "in_reply_to_status_id_str": "834426133521141760",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 47,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:34:27 +0000 2017",
+    "id": 834426133521141800,
+    "id_str": "834426133521141760",
+    "text": "The white guy pays his bill, server tells him it didn't go through. Does he have another card? \"Not that I want to use,\" he says imperiously",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834425731543244800,
+    "in_reply_to_status_id_str": "834425731543244800",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 22 15:32:51 +0000 2017",
+    "id": 834425731543244800,
+    "id_str": "834425731543244800",
+    "text": "A little while later, seats adjacent to me were both taken up by single men. A white businessman type to my left, older Indian man on right.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 834425112526860300,
+    "in_reply_to_status_id_str": "834425112526860289",
+    "in_reply_to_user_id": 182500191,
+    "in_reply_to_user_id_str": "182500191",
+    "in_reply_to_screen_name": "SmartAssJen",
+    "user": {
+      "id": 182500191,
+      "id_str": "182500191",
+      "name": "Jen Richards",
+      "screen_name": "SmartAssJen",
+      "location": "Altadena, CA",
+      "description": "life in aporia / creator of Emmy nominated @HerStoryShow and other good things / #girlslikeus",
+      "url": "https://t.co/rqfcb5oXGr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rqfcb5oXGr",
+              "expanded_url": "http://smartassjen.com/",
+              "display_url": "smartassjen.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27369,
+      "friends_count": 755,
+      "listed_count": 288,
+      "created_at": "Tue Aug 24 19:01:14 +0000 2010",
+      "favourites_count": 34531,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19543,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9582A3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151505580/PbdRAF4K.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790038365395484672/vSlIaUUO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/182500191/1477194827",
+      "profile_link_color": "5863DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

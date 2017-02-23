@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  tweet-thread:
+    build:
+      context: ./
+      dockerfile: Dockerfile.development
+    volumes:
+      - .:/app
+    ports:
+      - 65006:8000
